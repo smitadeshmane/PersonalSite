@@ -39,7 +39,7 @@ switch(char){
   snare.play();
   break;
   case("k"):
-  var crash=new Audio('sounds/crash.mp3');
+  var crash=new Audio('crash.mp3');
   crash.play();
   break;
   case("l"):
