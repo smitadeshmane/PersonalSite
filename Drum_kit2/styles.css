@@ -17,32 +17,32 @@ h1 {
 
 
 .w {
-  background-image: url('Drum_kit1/images/tom1.png');
+  background-image: url('tom1.png');
 }
 
 
 .a {
-background-image: url('Drum_kit1/images/tom2.png');
+background-image: url('tom2.png');
 }
 
 .s {
-background-image: url('Drum_kit1/images/tom3.png');
+background-image: url('tom3.png');
 }
 
 .d {
-background-image: url('Drum_kit1/images/tom4.png');
+background-image: url('tom4.png');
 }
 
 .j {
-background-image: url('Drum_kit1/images/snare.png');
+background-image: url('snare.png');
 }
 
 .k {
-background-image: url('Drum_kit1/images/crash.png');
+background-image: url('crash.png');
 }
 
 .l {
-background-image: url('Drum_kit1/images/kick.png');
+background-image: url('kick.png');
 }
 
 .set {
